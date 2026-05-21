@@ -1,0 +1,6 @@
+{
+  "name": "OpenShift Compliance Audit",
+  "description": "Enterprise security compliance dashboard for OpenShift, mapping technical clusters, namespaces, and workloads to regulatory frameworks like CIS, PCI-DSS, STIG, and GDPR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
